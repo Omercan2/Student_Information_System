@@ -1,0 +1,4 @@
+    nevzat  cetinkaya    yazilim        100    nevzatc       Etik         78         90  Succesful
+    nevzat  cetinkaya    yazilim        100    nevzatc      fizik         30         13 Unsuccesful
+   huseyýn  cetinkaya    bilisim        666   asdfghjk        mat         43         23 Unsuccesful
+   huseyýn  cetinkaya    bilisim        666   asdfghjk programlama         67         56  Succesful
